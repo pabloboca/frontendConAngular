@@ -1,0 +1,58 @@
+/* You can add global styles to this file, and also import other style files */
+header {
+    height: 3rem;
+}
+
+h1 {
+    font-size: calc(1em + 1vw);
+}
+a {
+    text-decoration: none;
+}
+
+.img-portada {
+    width: 100vw;
+    border-radius: 10px;
+}
+
+.estilo-bloque {
+    border: 1px grey solid;
+    border-radius: 15px;
+}
+
+.img-estilo {
+    border-radius: 50px;
+    width: 170px;
+    height: 160px;
+    position: relative;
+    margin-top: -75px;
+    left: 5px;
+}
+
+.ajusteIcono1 {
+    padding-right: 2.5%;
+}
+.ajusteIcono2 {
+    padding-right: 10%;
+}
+
+@media screen and (max-width: 700px) {
+    .ajusteIcono1 {
+        padding-right: 4%;
+    }
+}
+
+
+
+.cf1 {
+    background-color: violet;
+}
+
+
+.cf2 {
+    background-color: red;
+}
+
+.c3 {
+    background-color: blue;
+}

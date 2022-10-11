@@ -1,0 +1,69 @@
+{
+    "name": "Pablo Canegallo",
+    "backImage": "../../assets/images/fondo1.jpg",
+    "image": "../../assets/images/foto perfil1.JPG",
+    "position": "Informatico en CONICET",
+    "company": {
+        "name": "CONICET",
+        "img": "../../assets/images/conicet.jpg",
+        "url": ""
+    },
+    "school": {
+        "name": "Universidad de Buenos Aires",
+        "img": "",
+        "url": ""
+    },
+    "ubicacion": "Buenos Aires (Argentina)",
+    "about": "Matematico, fisico e informatico argentino considerado por muchos como el padre de la computacion en la Argentina",
+    "experiencia": [
+        {
+            "position": "Backend Developer",
+            "company": "Pixar",
+            "img": "../../assets/images/logobackend1.jpg",
+            "mode": "Jornada parcial",
+            "start": "mar 2019",
+            "end": "actualidad",
+            "timeElapsed": "2 años y 6 meses",
+            "lugar": "Guadalajara y alrededores, Mexico"
+        }
+    ],
+    "educacion": [
+        {
+            "school": "UTN",
+            "title": "Ingenieria",
+            "img": "../../assets/images/logoutn.png",
+            "career": "Sistemas Computacionales",
+            "score": 0,
+            "start": "2019",
+            "end": "2023"
+        },
+        {
+            "school": "Centro de Enseñanza Técnico Industrial",
+            "title": "Tecnologo",
+            "img": "../../assets/images/logoceti.jpg",
+            "career": "Desarrollo de Software",
+            "score": 82,
+            "start": "2014",
+            "end": "2018"
+        },
+        {
+            "school": "Escuela Secundaria Técnica 14",
+            "title": "Tecnico",
+            "img": "../../assets/images/logobackend2.png",
+            "career": "Electronica, comunicacion y sistemas de control",
+            "score": 0,
+            "start": "2012",
+            "end": "2014"
+        }
+    ],
+    "proyectos": [
+        {
+            "puesto": "e-Farmacia",
+            "descripcion": "Desarrollamos un sitio web de comercio electronico front End basado en Angular de alto trafico con diseño innovador basado en UIX. Totalmente integrado con los sistemas CRM y ERP internos."
+        },
+        {
+            "puesto": "Sistema de Monitoreo",
+            "descripcion": "Desarrollamos un Back End basado en API Rest con la tecnologia Spring Boot para proveer datos de monitoreo a aplicaciones distribuidas, tambien el desarrollo de interface entre sistemas de gestion para automatizar procesos."
+        }
+    ]
+}
